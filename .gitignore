@@ -1,0 +1,5 @@
+*.log
+.htaccess
+.txt
+!readme.txt
+
